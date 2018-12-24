@@ -1421,7 +1421,7 @@ li.active[class] span {
   padding: 0px 10px; }
 
 .mention_day_container_div .day_divider:before {
-  background-color: transparent !important;
+  background-color: var(--background) !important;
   border-color: var(--border-dim); }
 
 .day_container .day_msgs {
